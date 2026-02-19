@@ -1,6 +1,6 @@
 # iframe-resizer website and docs
 
-https://iframe-resizer.com
+https://v5.iframe-resizer.com
 
 <!--
 # Starlight Starter Kit: Basics
