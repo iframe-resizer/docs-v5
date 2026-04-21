@@ -5,7 +5,7 @@ import CallToAction from "./CallToAction.astro";
 
 export default () => (
   <>
-    <a href="/pricing" class="btn btn-primary">
+    <a href="https://iframe-resizer.com/pricing" class="btn btn-primary">
       Pricing
     </a>
   </>
