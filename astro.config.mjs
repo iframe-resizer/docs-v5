@@ -80,6 +80,7 @@ export default defineConfig({
       components: {
         Head: "./src/components/Head.astro",
         SocialIcons: "./src/components/socials.astro",
+        PageFrame: "./src/components/PageFrame.astro",
       },
       social: [
         {
